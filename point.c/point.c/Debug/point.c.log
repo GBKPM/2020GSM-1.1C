@@ -1,0 +1,4 @@
+﻿  함수.c
+C:\Users\user\source\repos\point.c\point.c\함수.c(13): warning C4716: 'SWAP': 값을 반환해야 합니다.
+C:\Users\user\source\repos\point.c\point.c\함수.c(20): warning C4716: 'SWAP3': 값을 반환해야 합니다.
+  point.c.vcxproj -> C:\Users\user\source\repos\point.c\Debug\point.c.exe

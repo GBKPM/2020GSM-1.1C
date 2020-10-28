@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\StringNumberConversion\StringNumberConversion\bin\Debug\netcoreapp3.1\StringNumberConversion.exe
+C:\Users\user\source\repos\StringNumberConversion\StringNumberConversion\bin\Debug\netcoreapp3.1\StringNumberConversion.deps.json
+C:\Users\user\source\repos\StringNumberConversion\StringNumberConversion\bin\Debug\netcoreapp3.1\StringNumberConversion.runtimeconfig.json
+C:\Users\user\source\repos\StringNumberConversion\StringNumberConversion\bin\Debug\netcoreapp3.1\StringNumberConversion.runtimeconfig.dev.json
+C:\Users\user\source\repos\StringNumberConversion\StringNumberConversion\bin\Debug\netcoreapp3.1\StringNumberConversion.dll
+C:\Users\user\source\repos\StringNumberConversion\StringNumberConversion\bin\Debug\netcoreapp3.1\StringNumberConversion.pdb
+C:\Users\user\source\repos\StringNumberConversion\StringNumberConversion\obj\Debug\netcoreapp3.1\StringNumberConversion.csprojAssemblyReference.cache
+C:\Users\user\source\repos\StringNumberConversion\StringNumberConversion\obj\Debug\netcoreapp3.1\StringNumberConversion.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StringNumberConversion\StringNumberConversion\obj\Debug\netcoreapp3.1\StringNumberConversion.AssemblyInfo.cs
+C:\Users\user\source\repos\StringNumberConversion\StringNumberConversion\obj\Debug\netcoreapp3.1\StringNumberConversion.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StringNumberConversion\StringNumberConversion\obj\Debug\netcoreapp3.1\StringNumberConversion.dll
+C:\Users\user\source\repos\StringNumberConversion\StringNumberConversion\obj\Debug\netcoreapp3.1\StringNumberConversion.pdb
+C:\Users\user\source\repos\StringNumberConversion\StringNumberConversion\obj\Debug\netcoreapp3.1\StringNumberConversion.genruntimeconfig.cache

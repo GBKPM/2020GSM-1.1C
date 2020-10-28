@@ -1,0 +1,3 @@
+﻿  문자배열.c
+C:\Users\user\source\repos\newtest\newtest\문자배열.c(44,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  newtest.vcxproj -> C:\Users\user\source\repos\newtest\Debug\newtest.exe

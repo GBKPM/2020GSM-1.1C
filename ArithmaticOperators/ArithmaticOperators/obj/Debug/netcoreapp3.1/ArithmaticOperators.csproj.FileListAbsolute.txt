@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ArithmaticOperators\ArithmaticOperators\bin\Debug\netcoreapp3.1\ArithmaticOperators.exe
+C:\Users\user\source\repos\ArithmaticOperators\ArithmaticOperators\bin\Debug\netcoreapp3.1\ArithmaticOperators.deps.json
+C:\Users\user\source\repos\ArithmaticOperators\ArithmaticOperators\bin\Debug\netcoreapp3.1\ArithmaticOperators.runtimeconfig.json
+C:\Users\user\source\repos\ArithmaticOperators\ArithmaticOperators\bin\Debug\netcoreapp3.1\ArithmaticOperators.runtimeconfig.dev.json
+C:\Users\user\source\repos\ArithmaticOperators\ArithmaticOperators\bin\Debug\netcoreapp3.1\ArithmaticOperators.dll
+C:\Users\user\source\repos\ArithmaticOperators\ArithmaticOperators\bin\Debug\netcoreapp3.1\ArithmaticOperators.pdb
+C:\Users\user\source\repos\ArithmaticOperators\ArithmaticOperators\obj\Debug\netcoreapp3.1\ArithmaticOperators.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ArithmaticOperators\ArithmaticOperators\obj\Debug\netcoreapp3.1\ArithmaticOperators.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ArithmaticOperators\ArithmaticOperators\obj\Debug\netcoreapp3.1\ArithmaticOperators.AssemblyInfo.cs
+C:\Users\user\source\repos\ArithmaticOperators\ArithmaticOperators\obj\Debug\netcoreapp3.1\ArithmaticOperators.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ArithmaticOperators\ArithmaticOperators\obj\Debug\netcoreapp3.1\ArithmaticOperators.dll
+C:\Users\user\source\repos\ArithmaticOperators\ArithmaticOperators\obj\Debug\netcoreapp3.1\ArithmaticOperators.pdb
+C:\Users\user\source\repos\ArithmaticOperators\ArithmaticOperators\obj\Debug\netcoreapp3.1\ArithmaticOperators.genruntimeconfig.cache

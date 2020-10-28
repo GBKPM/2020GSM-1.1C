@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\RelationalOperator\RelationalOperator\bin\Debug\netcoreapp3.1\RelationalOperator.exe
+C:\Users\user\source\repos\RelationalOperator\RelationalOperator\bin\Debug\netcoreapp3.1\RelationalOperator.deps.json
+C:\Users\user\source\repos\RelationalOperator\RelationalOperator\bin\Debug\netcoreapp3.1\RelationalOperator.runtimeconfig.json
+C:\Users\user\source\repos\RelationalOperator\RelationalOperator\bin\Debug\netcoreapp3.1\RelationalOperator.runtimeconfig.dev.json
+C:\Users\user\source\repos\RelationalOperator\RelationalOperator\bin\Debug\netcoreapp3.1\RelationalOperator.dll
+C:\Users\user\source\repos\RelationalOperator\RelationalOperator\bin\Debug\netcoreapp3.1\RelationalOperator.pdb
+C:\Users\user\source\repos\RelationalOperator\RelationalOperator\obj\Debug\netcoreapp3.1\RelationalOperator.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RelationalOperator\RelationalOperator\obj\Debug\netcoreapp3.1\RelationalOperator.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RelationalOperator\RelationalOperator\obj\Debug\netcoreapp3.1\RelationalOperator.AssemblyInfo.cs
+C:\Users\user\source\repos\RelationalOperator\RelationalOperator\obj\Debug\netcoreapp3.1\RelationalOperator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RelationalOperator\RelationalOperator\obj\Debug\netcoreapp3.1\RelationalOperator.dll
+C:\Users\user\source\repos\RelationalOperator\RelationalOperator\obj\Debug\netcoreapp3.1\RelationalOperator.pdb
+C:\Users\user\source\repos\RelationalOperator\RelationalOperator\obj\Debug\netcoreapp3.1\RelationalOperator.genruntimeconfig.cache

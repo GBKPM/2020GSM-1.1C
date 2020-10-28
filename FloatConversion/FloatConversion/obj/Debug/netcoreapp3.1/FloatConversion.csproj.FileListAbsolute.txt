@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\FloatConversion\FloatConversion\bin\Debug\netcoreapp3.1\FloatConversion.exe
+C:\Users\user\source\repos\FloatConversion\FloatConversion\bin\Debug\netcoreapp3.1\FloatConversion.deps.json
+C:\Users\user\source\repos\FloatConversion\FloatConversion\bin\Debug\netcoreapp3.1\FloatConversion.runtimeconfig.json
+C:\Users\user\source\repos\FloatConversion\FloatConversion\bin\Debug\netcoreapp3.1\FloatConversion.runtimeconfig.dev.json
+C:\Users\user\source\repos\FloatConversion\FloatConversion\bin\Debug\netcoreapp3.1\FloatConversion.dll
+C:\Users\user\source\repos\FloatConversion\FloatConversion\bin\Debug\netcoreapp3.1\FloatConversion.pdb
+C:\Users\user\source\repos\FloatConversion\FloatConversion\obj\Debug\netcoreapp3.1\FloatConversion.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FloatConversion\FloatConversion\obj\Debug\netcoreapp3.1\FloatConversion.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FloatConversion\FloatConversion\obj\Debug\netcoreapp3.1\FloatConversion.AssemblyInfo.cs
+C:\Users\user\source\repos\FloatConversion\FloatConversion\obj\Debug\netcoreapp3.1\FloatConversion.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FloatConversion\FloatConversion\obj\Debug\netcoreapp3.1\FloatConversion.dll
+C:\Users\user\source\repos\FloatConversion\FloatConversion\obj\Debug\netcoreapp3.1\FloatConversion.pdb
+C:\Users\user\source\repos\FloatConversion\FloatConversion\obj\Debug\netcoreapp3.1\FloatConversion.genruntimeconfig.cache

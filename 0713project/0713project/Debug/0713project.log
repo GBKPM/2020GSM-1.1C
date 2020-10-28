@@ -1,0 +1,4 @@
+﻿  point.c
+D:\2020 프로그래밍\0713project\0713project\point.c(10): warning C4716: 'mystrcpy': 값을 반환해야 합니다.
+D:\2020 프로그래밍\0713project\0713project\point.c(30): warning C4716: 'mystrcat': 값을 반환해야 합니다.
+  0713project.vcxproj -> D:\2020 프로그래밍\0713project\Debug\0713project.exe

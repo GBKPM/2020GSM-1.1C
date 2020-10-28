@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\UsingVar\UsingVar\bin\Debug\netcoreapp3.1\UsingVar.exe
+C:\Users\user\source\repos\UsingVar\UsingVar\bin\Debug\netcoreapp3.1\UsingVar.deps.json
+C:\Users\user\source\repos\UsingVar\UsingVar\bin\Debug\netcoreapp3.1\UsingVar.runtimeconfig.json
+C:\Users\user\source\repos\UsingVar\UsingVar\bin\Debug\netcoreapp3.1\UsingVar.runtimeconfig.dev.json
+C:\Users\user\source\repos\UsingVar\UsingVar\bin\Debug\netcoreapp3.1\UsingVar.dll
+C:\Users\user\source\repos\UsingVar\UsingVar\bin\Debug\netcoreapp3.1\UsingVar.pdb
+C:\Users\user\source\repos\UsingVar\UsingVar\obj\Debug\netcoreapp3.1\UsingVar.csprojAssemblyReference.cache
+C:\Users\user\source\repos\UsingVar\UsingVar\obj\Debug\netcoreapp3.1\UsingVar.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\UsingVar\UsingVar\obj\Debug\netcoreapp3.1\UsingVar.AssemblyInfo.cs
+C:\Users\user\source\repos\UsingVar\UsingVar\obj\Debug\netcoreapp3.1\UsingVar.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UsingVar\UsingVar\obj\Debug\netcoreapp3.1\UsingVar.dll
+C:\Users\user\source\repos\UsingVar\UsingVar\obj\Debug\netcoreapp3.1\UsingVar.pdb
+C:\Users\user\source\repos\UsingVar\UsingVar\obj\Debug\netcoreapp3.1\UsingVar.genruntimeconfig.cache

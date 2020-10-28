@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Path Data="M190.48276,134.37931 C568.06897,133.34483 134.12045,360.43134 188.94803,140.08651 243.77562,-80.258318 956.53444,-0.60143594 567.56876,131.81115" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="234.997" Margin="184.076,2.339,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="500.094"/>
+    </Grid>
+</Window>

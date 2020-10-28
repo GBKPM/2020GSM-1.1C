@@ -1,0 +1,8 @@
+﻿  ex3.c
+D:\2020 프로그래밍\c_programming\c_programming\ex3.c(7,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\2020 프로그래밍\c_programming\c_programming\ex3.c(7,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+D:\2020 프로그래밍\c_programming\c_programming\ex3.c(7,10): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+D:\2020 프로그래밍\c_programming\c_programming\ex3.c(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  c_programming.vcxproj -> D:\2020 프로그래밍\c_programming\Debug\c_programming.exe
+D:\2020 프로그래밍\c_programming\c_programming\ex3.c(7): warning C6064: 다음 변환 지정자에 해당하는, 'scanf_s'에 대한 정수 인수가 없습니다. '1'
+D:\2020 프로그래밍\c_programming\c_programming\ex3.c(8): warning C6273: 정수가 아닌 항목이 _Param_(2)으로 전달되었습니다. 'printf'에 대한 호출에는 정수가 필요합니다. 실제 형식: 'int *'. 포인터 값이 전달되는 경우 %p을(를) 사용해야 합니다.

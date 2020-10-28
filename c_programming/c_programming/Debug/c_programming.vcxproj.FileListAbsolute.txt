@@ -1,0 +1,2 @@
+D:\2020 프로그래밍\c_programming\Debug\c_programming.exe.lastcodeanalysissucceeded
+D:\2020 프로그래밍\c_programming\c_programming\Debug\NativeCodeAnalysis.read.1.tlog

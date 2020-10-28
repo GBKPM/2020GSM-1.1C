@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\계산기\계산기\bin\Debug\netcoreapp3.1\count.exe
+C:\Users\user\source\repos\계산기\계산기\bin\Debug\netcoreapp3.1\count.deps.json
+C:\Users\user\source\repos\계산기\계산기\bin\Debug\netcoreapp3.1\count.runtimeconfig.json
+C:\Users\user\source\repos\계산기\계산기\bin\Debug\netcoreapp3.1\count.runtimeconfig.dev.json
+C:\Users\user\source\repos\계산기\계산기\bin\Debug\netcoreapp3.1\count.dll
+C:\Users\user\source\repos\계산기\계산기\bin\Debug\netcoreapp3.1\count.pdb
+C:\Users\user\source\repos\계산기\계산기\obj\Debug\netcoreapp3.1\count.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\계산기\계산기\obj\Debug\netcoreapp3.1\count.AssemblyInfo.cs
+C:\Users\user\source\repos\계산기\계산기\obj\Debug\netcoreapp3.1\count.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\계산기\계산기\obj\Debug\netcoreapp3.1\count.dll
+C:\Users\user\source\repos\계산기\계산기\obj\Debug\netcoreapp3.1\count.pdb
+C:\Users\user\source\repos\계산기\계산기\obj\Debug\netcoreapp3.1\count.genruntimeconfig.cache
+C:\Users\user\source\repos\계산기\계산기\obj\Debug\netcoreapp3.1\count.csprojAssemblyReference.cache

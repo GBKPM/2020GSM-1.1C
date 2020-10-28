@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Nullalble\Nullalble\bin\Debug\netcoreapp3.1\Nullalble.exe
+C:\Users\user\source\repos\Nullalble\Nullalble\bin\Debug\netcoreapp3.1\Nullalble.deps.json
+C:\Users\user\source\repos\Nullalble\Nullalble\bin\Debug\netcoreapp3.1\Nullalble.runtimeconfig.json
+C:\Users\user\source\repos\Nullalble\Nullalble\bin\Debug\netcoreapp3.1\Nullalble.runtimeconfig.dev.json
+C:\Users\user\source\repos\Nullalble\Nullalble\bin\Debug\netcoreapp3.1\Nullalble.dll
+C:\Users\user\source\repos\Nullalble\Nullalble\bin\Debug\netcoreapp3.1\Nullalble.pdb
+C:\Users\user\source\repos\Nullalble\Nullalble\obj\Debug\netcoreapp3.1\Nullalble.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Nullalble\Nullalble\obj\Debug\netcoreapp3.1\Nullalble.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Nullalble\Nullalble\obj\Debug\netcoreapp3.1\Nullalble.AssemblyInfo.cs
+C:\Users\user\source\repos\Nullalble\Nullalble\obj\Debug\netcoreapp3.1\Nullalble.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nullalble\Nullalble\obj\Debug\netcoreapp3.1\Nullalble.dll
+C:\Users\user\source\repos\Nullalble\Nullalble\obj\Debug\netcoreapp3.1\Nullalble.pdb
+C:\Users\user\source\repos\Nullalble\Nullalble\obj\Debug\netcoreapp3.1\Nullalble.genruntimeconfig.cache
